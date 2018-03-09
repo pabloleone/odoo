@@ -32,3 +32,5 @@ install/win32/meta.py
 /man/
 /share/
 /src/
+
+addons/odoo-addon-website_favicon
